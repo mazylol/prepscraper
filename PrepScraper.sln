@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrepScraper", "PrepScraper\PrepScraper.csproj", "{1AA5C005-6966-4B82-BEE9-7A0D5D49EF38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrepScraperApp", "PrepScraperApp\PrepScraperApp.csproj", "{34F721C7-3467-4AD5-B966-0FA752E6270B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AA5C005-6966-4B82-BEE9-7A0D5D49EF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA5C005-6966-4B82-BEE9-7A0D5D49EF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA5C005-6966-4B82-BEE9-7A0D5D49EF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA5C005-6966-4B82-BEE9-7A0D5D49EF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E8C975-CD31-4688-AD18-7C2F07123630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E8C975-CD31-4688-AD18-7C2F07123630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E8C975-CD31-4688-AD18-7C2F07123630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E8C975-CD31-4688-AD18-7C2F07123630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F721C7-3467-4AD5-B966-0FA752E6270B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F721C7-3467-4AD5-B966-0FA752E6270B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F721C7-3467-4AD5-B966-0FA752E6270B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F721C7-3467-4AD5-B966-0FA752E6270B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
